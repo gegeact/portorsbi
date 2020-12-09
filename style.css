@@ -158,10 +158,10 @@
 
 @media (min-width: 992px) {
 
-    .navbar-brand, .nav-link {
+    /* .navbar-brand, .nav-link {
         
-        /* text-shadow: 1px 1px 1px rgba(0,0,0,0.7); */
-    }
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
+    } */
 
     .nav-link {
         text-transform: uppercase;
